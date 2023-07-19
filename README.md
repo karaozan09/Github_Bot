@@ -7,6 +7,8 @@ Python ile github bot uygulaması
 
 
 Daha sonrasında 16. satıra github loggin sayfasının "url" bilgisini girmelisiniz.
+
+
 ![alt text](![Ekran görüntüsü 2023-07-19 164332](https://github.com/karaozan09/Github_Bot/assets/95549258/77e4d71b-75a8-4a1a-90a2-2e70c029ad61))
 
 
